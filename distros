@@ -1,0 +1,144 @@
+# Last update/url verification: Sat 13 Apr 2019 10:34:45 AM UTC
+# Comment lines with "#" at the beginning
+# First 4 lines reserved.
+# distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
+
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,18.10,stable,Wed 17 Oct 2018 10:44:42 PM UTC,Cosmic Cuttlefish,http://releases.ubuntu.com/cosmic/ubuntu-18.10-desktop-amd64.iso,sha256,http://releases.ubuntu.com/cosmic/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,live-server,amd64,18.10,stable,Wed 17 Oct 2018 11:39:51 PM UTC,Cosmic Cuttlefish,http://releases.ubuntu.com/cosmic/ubuntu-18.10-live-server-amd64.iso,sha256,http://releases.ubuntu.com/cosmic/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,18.04.2,LTS,Sun 10 Feb 2019 12:27:43 AM UTC,Bionic Beaver,http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso,sha256,http://releases.ubuntu.com/18.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,live-server,amd64,18.04.2,LTS,Thu 14 Feb 2019 10:06:04 AM UTC,Bionic Beaver,http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso,sha256,http://releases.ubuntu.com/18.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,19.04,beta,Tue 26 Mar 2019 10:40:13 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-beta-desktop-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,live-server,amd64,19.04,beta,Tue 26 Mar 2019 10:49:22 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-beta-live-server-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,16.04.6,LTS,Wed 27 Feb 2019 09:57:48 AM UTC,Xenial Xerus,http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-amd64.iso,sha256,http://releases.ubuntu.com/16.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,server,amd64,16.04.6,LTS,Wed 27 Feb 2019 12:07:02 AM UTC,Xenial Xerus,http://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-amd64.iso,sha256,http://releases.ubuntu.com/16.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,14.04.6,LTS,Mon 04 Mar 2019 11:50:04 PM UTC,Trusty Tahr,http://releases.ubuntu.com/14.04/ubuntu-14.04.6-desktop-amd64.iso,sha256,http://releases.ubuntu.com/14.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,server,amd64,14.04.6,LTS,Mon 04 Mar 2019 11:49:01 PM UTC,Trusty Tahr,http://releases.ubuntu.com/14.04/ubuntu-14.04.6-server-amd64.iso,sha256,http://releases.ubuntu.com/14.04/SHA256SUMS.gpg
+
+Ubuntu,https://www.ubuntu.com/,desktop,i386,14.04.6,LTS,Mon 04 Mar 2019 11:52:27 PM UTC,Trusty Tahr,http://releases.ubuntu.com/14.04/ubuntu-14.04.6-desktop-i386.iso,sha256,http://releases.ubuntu.com/14.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,server,i386,14.04.6,LTS,Mon 04 Mar 2019 11:51:41 PM UTC,Trusty Tahr,http://releases.ubuntu.com/14.04/ubuntu-14.04.6-server-i386.iso,sha256,http://releases.ubuntu.com/14.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,desktop,i386,16.04.6,LTS,Wed 27 Feb 2019 10:16:00 AM UTC,Xenial Xerus,http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-i386.iso,sha256,http://releases.ubuntu.com/16.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,server,i386,16.04.6,LTS,Wed 27 Feb 2019 12:07:02 AM UTC,Xenial Xerus,http://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-amd64.iso,sha256,http://releases.ubuntu.com/16.04/SHA256SUMS
+
+Mint,https://linuxmint.com/,Cinnamon,amd64,19.1,LTS,Mon 17 Dec 2018 02:01:39 PM UTC,Tessa,http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-cinnamon-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19.1/sha256sum.txt
+
+Mint,https://linuxmint.com/,Cinnamon,i386,19.1,LTS,Mon 17 Dec 2018 04:32:28 PM UTC,Tessa,http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-cinnamon-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19.1/sha256sum.txt
+
+Mint,https://linuxmint.com/,MATE,i386,19.1,LTS,Mon 17 Dec 2018 05:56:56 PM UTC,Tessa,http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-mate-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19.1/sha256sum.txt
+
+Mint,https://linuxmint.com/,MATE,amd64,19.1,LTS,Mon 17 Dec 2018 02:56:17 PM UTC,Tessa,http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-mate-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19.1/sha256sum.txt
+
+Mint,https://linuxmint.com/,Xfce,i386,19.1,LTS,Mon 17 Dec 2018 06:42:31 PM UTC,Tessa,http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-xfce-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19.1/sha256sum.txt
+
+Mint,https://linuxmint.com/,Xfce,amd64,19.1,LTS,Mon 17 Dec 2018 03:45:54 PM UTC,Tessa,http://mirrors.evowise.com/linuxmint/stable/19.1/linuxmint-19.1-xfce-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19.1/sha256sum.txt
+
+Mint,https://linuxmint.com/,LMDE-Cinnamon,amd64,3,LTS,Tue 28 Aug 2018 02:40:52 PM UTC,Cindy,http://mirrors.evowise.com/linuxmint/debian/lmde-3-201808-cinnamon-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/debian/sha256sum.txt
+
+Mint,https://linuxmint.com/,LMDE-Cinnamon,i386,3,LTS,Tue 28 Aug 2018 01:48:36 PM UTC,Cindy,http://mirrors.evowise.com/linuxmint/debian/lmde-3-201808-cinnamon-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/debian/sha256sum.txt
+
+Mint,https://linuxmint.com/,Cinnamon,i386,18.3,LTS,Fri 24 Nov 2017 05:00:56 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-cinnamon-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,Cinnamon,amd64,18.3,LTS,Fri 24 Nov 2017 01:26:07 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-cinnamon-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,KDE,i386,18.3,LTS,Wed 13 Dec 2017 03:24:47 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-kde-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,KDE,amd64,18.3,LTS,Wed 13 Dec 2017 03:59:36 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-kde-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,MATE,i386,18.3,LTS,Fri 24 Nov 2017 06:08:16 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-mate-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,MATE,amd64,18.3,LTS,Fri 24 Nov 2017 02:47:58 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-mate-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,Xfce,i386,18.3,LTS,Wed 13 Dec 2017 02:56:30 PM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-xfce-32bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Mint,https://linuxmint.com/,Xfce,amd64,18.3,LTS,Wed 13 Dec 2017 11:48:26 AM UTC,Sylvia,http://mirrors.evowise.com/linuxmint/stable/18.3/linuxmint-18.3-xfce-64bit.iso,sha256,https://ftp.heanet.ie/mirrors/linuxmint.com/stable/18.3/sha256sum.txt
+
+Manjaro,https://manjaro.org/,Architect,amd64,18.0.2,stable,Sun 17 Feb 2019 10:36:09 AM UTC,,https://osdn.net/projects/manjaro/storage/architect/18.0.2/manjaro-architect-18.0.2-stable-x86_64.iso,sha256,https://osdn.net/projects/manjaro/storage/architect/18.0.2/manjaro-architect-18.0.2-stable-x86_64.iso.sha256
+
+Manjaro,https://manjaro.org/,GNOME,amd64,18.0.4,stable,Tue 12 Mar 2019 01:21:58 PM UTC,,https://osdn.net/projects/manjaro/storage/gnome/18.0.4/manjaro-gnome-18.0.4-stable-x86_64.iso,sha256,https://osdn.net/projects/manjaro/storage/gnome/18.0.4/manjaro-gnome-18.0.4-stable-x86_64.iso.sha256
+
+Manjaro,https://manjaro.org/,KDE,amd64,18.0.4,stable,Tue 12 Mar 2019 12:30:12 PM UTC,,https://osdn.net/projects/manjaro/storage/kde/18.0.4/manjaro-kde-18.0.4-stable-x86_64.iso,sha256,https://osdn.net/projects/manjaro/storage/kde/18.0.4/manjaro-kde-18.0.4-stable-x86_64.iso.sha256
+
+Manjaro,https://manjaro.org/,Xfce,amd64,18.0.4,stable,Tue 12 Mar 2019 11:19:23 AM UTC,,https://osdn.net/projects/manjaro/storage/xfce/18.0.4/manjaro-xfce-18.0.4-stable-x86_64.iso,sha256,https://osdn.net/projects/manjaro/storage/xfce/18.0.4/manjaro-xfce-18.0.4-stable-x86_64.iso.sha256
+
+MXLinux,https://mxlinux.org/,,amd64,18.2,stable,Sat 06 Apr 2019 11:37:48 PM UTC,,http://linuxfreedom.com/mxlinux/MX/Final/MX-18.2/MX-18.2_x64.iso,sha256,http://mxrepo.com/Final/MX-18.2/MX-18.2_x64.iso.sha256
+
+MXLinux,https://mxlinux.org/,,i386,18.2,stable,Sat 06 Apr 2019 11:37:15 PM UTC,,http://linuxfreedom.com/mxlinux/MX/Final/MX-18.2/MX-18.2_386.iso,sha256,http://mxrepo.com/Final/MX-18.2/MX-18.2_386.iso.sha256
+
+elementary,https://elementary.io/,,amd64,5.0,stable,Sat 13 Apr 2019 12:00:00 AM UTC,Juno,https://fra1.dl.elementary.io/download/MTU1NTE0MzIzOQ==/elementaryos-5.0-stable.20181016.iso,sha256,a8c7b8c54aeb0889bb3245356ffcd95b77e9835ffb5ac56376a3b627c3e1950f
+
+Debian,https://www.debian.org/,Cinnamon-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:20:18 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-cinnamon.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,GNOME-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:20:14 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-gnome.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,KDE-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:21:11 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-kde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,LXDE-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:18:20 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-lxde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,MATE-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:17:16 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-mate.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,Xfce-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:17:02 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-xfce.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,Cinnamon-(live),i386,9.8,stable,Sat 16 Feb 2019 12:41:42 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-cinnamon.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,GNOME-(live),i386,9.8,stable,Sat 16 Feb 2019 12:41:30 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-gnome.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,KDE-(live),i386,9.8,stable,Sat 16 Feb 2019 12:42:37 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-kde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,LXDE-(live),i386,9.8,stable,Sat 16 Feb 2019 12:39:32 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-lxde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,MATE-(live),i386,9.8,stable,Sat 16 Feb 2019 12:38:40 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-mate.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,Xfce-(live),i386,9.8,stable,Sat 16 Feb 2019 12:38:35 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-xfce.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
+
+Fedora,https://getfedora.org,Workstation-(live),amd64,29,stable,Thu 25 Oct 2018 12:11:28 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org,Workstation-(live),i386,29,stable,Thu 25 Oct 2018 12:15:43 AM UTC,,https://download.fedoraproject.org/pub/fedora-secondary/releases/29/Workstation/i386/iso/Fedora-Workstation-Live-i386-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-i386-CHECKSUM
+
+Fedora,https://getfedora.org,Workstation-(netinstall),amd64,29,stable,Wed 24 Oct 2018 08:55:41 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-netinst-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org,Workstation-(netinstall),i386,29,stable,Wed 24 Oct 2018 08:37:51 PM UTC,,https://download.fedoraproject.org/pub/fedora-secondary/releases/29/Workstation/i386/iso/Fedora-Workstation-netinst-i386-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-i386-CHECKSUM
+
+Fedora,https://getfedora.org,Server,amd64,29,stable,Wed 24 Oct 2018 11:53:31 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Server/x86_64/iso/Fedora-Server-dvd-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Server-29-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org,Server-(netinstall),amd64,29,stable,Wed 24 Oct 2018 08:55:35 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Server/x86_64/iso/Fedora-Server-netinst-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Server-29-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org,Atomic,amd64,29,stable,Mon 01 Apr 2019 02:22:15 AM UTC,,https://download.fedoraproject.org/pub/alt/atomic/stable/Fedora-29-updates-20190401.0/AtomicHost/x86_64/iso/Fedora-AtomicHost-ostree-x86_64-29-20190401.0.iso,sha256,https://ftp-stud.hs-esslingen.de/pub/Mirrors/alt.fedoraproject.org/atomic/stable/Fedora-29-updates-20190401.0/AtomicHost/x86_64/iso/Fedora-AtomicHost-29-20190401.0-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org,Workstation,amd64,30,beta,Tue 26 Mar 2019 09:00:40 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/test/30_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-30_Beta-1.8.iso,sha256,https://getfedora.org/static/checksums/Fedora-Workstation-30_Beta-1.8-x86_64-CHECKSUM
+
+Solus,https://getsol.us/,Budgie,amd64,4.0,stable,Sun 17 Mar 2019 08:33:41 PM UTC,Fortitude,http://solus.veatnet.de/iso/images/4.0/Solus-4.0-Budgie.iso,sha256,https://mirrors.rit.edu/solus/images/4.0/Solus-4.0-Budgie.iso.sha256sum
+
+Solus,https://getsol.us/,GNOME,amd64,4.0,stable,Sun 17 Mar 2019 07:10:11 PM UTC,Fortitude,http://solus.veatnet.de/iso/images/4.0/Solus-4.0-GNOME.iso,sha256,https://mirrors.rit.edu/solus/images/4.0/Solus-4.0-GNOME.iso.sha256sum
+
+Solus,https://getsol.us/,MATE,amd64,4.0,stable,Sun 17 Mar 2019 07:34:04 PM UTC,Fortitude,http://solus.veatnet.de/iso/images/4.0/Solus-4.0-MATE.iso,sha256,https://mirrors.rit.edu/solus/images/4.0/Solus-4.0-MATE.iso.sha256sum
+
+openSUSE,https://www.opensuse.org/,Leap-(dvd-install),amd64,15.0,stable,Wed 16 May 2018 05:47:07 PM UTC,,https://download.opensuse.org/distribution/leap/15.0/iso/openSUSE-Leap-15.0-DVD-x86_64.iso,sha256,https://download.opensuse.org/distribution/leap/15.0/iso/openSUSE-Leap-15.0-DVD-x86_64.iso.sha256
+
+openSUSE,https://www.opensuse.org/,Leap-(GNOME-live),amd64,15.0,stable,Fri 12 Apr 2019 09:11:50 AM UTC,,https://download.opensuse.org/distribution/leap/15.0/live/openSUSE-Leap-15.0-GNOME-Live-x86_64-Current.iso,sha256,https://download.opensuse.org/distribution/leap/15.0/live/openSUSE-Leap-15.0-GNOME-Live-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,Leap-(KDE-live),amd64,15.0,stable,Fri 12 Apr 2019 09:11:54 AM UTC,,https://download.opensuse.org/distribution/leap/15.0/live/openSUSE-Leap-15.0-KDE-Live-x86_64-Current.iso,sha256,https://download.opensuse.org/distribution/leap/15.0/live/openSUSE-Leap-15.0-KDE-Live-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,Leap-(Rescue-live),amd64,15.0,stable,Fri 12 Apr 2019 09:11:58 AM UTC,,https://download.opensuse.org/distribution/leap/15.0/live/openSUSE-Leap-15.0-Rescue-CD-x86_64-Current.iso,sha256,https://download.opensuse.org/distribution/leap/15.0/live/openSUSE-Leap-15.0-Rescue-CD-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,GNOME-LiveCD,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:36:31 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,KDE-LiveCD,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:30:58 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,Xfce-LiveCD,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:37:32 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-XFCE-Live-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-XFCE-Live-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,Rescue-LiveCD,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:20:49 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,DVD-Install,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:45:50 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.sha256
+
+openSUSE,https://www.opensuse.org/,Netweork-Install,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:37:08 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256
