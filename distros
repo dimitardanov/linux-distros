@@ -1,4 +1,4 @@
-# Last update/url verification: Sat 13 Apr 2019 10:34:45 AM UTC
+# Last update/url verification: Tue 16 Apr 2019 10:07:43 AM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -142,3 +142,5 @@ openSUSE,https://www.opensuse.org/,Rescue-LiveCD,amd64,Tumbleweed,rolling,Thu 11
 openSUSE,https://www.opensuse.org/,DVD-Install,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:45:50 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.sha256
 
 openSUSE,https://www.opensuse.org/,Netweork-Install,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:37:08 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256
+
+LinuxLite,https://www.linuxliteos.com/,,amd64,4.4,stable,Sun 31 Mar 2019 04:01:11 AM UTC,,https://dotsrc.dl.osdn.net/osdn/storage/g/l/li/linuxlite/4.4/linux-lite-4.4-64bit.iso,md5,http://rwthaachen.dl.osdn.jp/storage/g/l/li/linuxlite/4.4/md5sum
