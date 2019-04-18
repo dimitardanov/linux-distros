@@ -11,9 +11,9 @@ Ubuntu,https://www.ubuntu.com/,desktop,amd64,18.04.2,LTS,Sun 10 Feb 2019 12:27:4
 
 Ubuntu,https://www.ubuntu.com/,live-server,amd64,18.04.2,LTS,Thu 14 Feb 2019 10:06:04 AM UTC,Bionic Beaver,http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso,sha256,http://releases.ubuntu.com/18.04/SHA256SUMS
 
-Ubuntu,https://www.ubuntu.com/,desktop,amd64,19.04,beta,Tue 26 Mar 2019 10:40:13 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-beta-desktop-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,19.04,release,Tue 26 Mar 2019 10:40:13 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-desktop-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
 
-Ubuntu,https://www.ubuntu.com/,live-server,amd64,19.04,beta,Tue 26 Mar 2019 10:49:22 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-beta-live-server-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
+Ubuntu,https://www.ubuntu.com/,live-server,amd64,19.04,release,Tue 26 Mar 2019 10:49:22 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-live-server-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
 
 Ubuntu,https://www.ubuntu.com/,desktop,amd64,16.04.6,LTS,Wed 27 Feb 2019 09:57:48 AM UTC,Xenial Xerus,http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-amd64.iso,sha256,http://releases.ubuntu.com/16.04/SHA256SUMS
 
