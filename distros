@@ -1,4 +1,4 @@
-# Last update/url verification: Tue 16 Apr 2019 10:07:43 AM UTC
+# Last update/url verification: Thu 18 Apr 2019 04:04:36 PM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -10,10 +10,6 @@ Ubuntu,https://www.ubuntu.com/,live-server,amd64,18.10,stable,Wed 17 Oct 2018 11
 Ubuntu,https://www.ubuntu.com/,desktop,amd64,18.04.2,LTS,Sun 10 Feb 2019 12:27:43 AM UTC,Bionic Beaver,http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso,sha256,http://releases.ubuntu.com/18.04/SHA256SUMS
 
 Ubuntu,https://www.ubuntu.com/,live-server,amd64,18.04.2,LTS,Thu 14 Feb 2019 10:06:04 AM UTC,Bionic Beaver,http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso,sha256,http://releases.ubuntu.com/18.04/SHA256SUMS
-
-Ubuntu,https://www.ubuntu.com/,desktop,amd64,19.04,release,Tue 26 Mar 2019 10:40:13 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-desktop-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
-
-Ubuntu,https://www.ubuntu.com/,live-server,amd64,19.04,release,Tue 26 Mar 2019 10:49:22 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-live-server-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
 
 Ubuntu,https://www.ubuntu.com/,desktop,amd64,16.04.6,LTS,Wed 27 Feb 2019 09:57:48 AM UTC,Xenial Xerus,http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-amd64.iso,sha256,http://releases.ubuntu.com/16.04/SHA256SUMS
 
@@ -144,3 +140,7 @@ openSUSE,https://www.opensuse.org/,DVD-Install,amd64,Tumbleweed,rolling,Thu 11 A
 openSUSE,https://www.opensuse.org/,Netweork-Install,amd64,Tumbleweed,rolling,Thu 11 Apr 2019 07:37:08 PM UTC,Tumbleweed,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso,sha256,https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256
 
 LinuxLite,https://www.linuxliteos.com/,,amd64,4.4,stable,Sun 31 Mar 2019 04:01:11 AM UTC,,https://dotsrc.dl.osdn.net/osdn/storage/g/l/li/linuxlite/4.4/linux-lite-4.4-64bit.iso,md5,http://rwthaachen.dl.osdn.jp/storage/g/l/li/linuxlite/4.4/md5sum
+
+Ubuntu,https://www.ubuntu.com/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 04:09:53 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-desktop-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
+
+Ubuntu,https://www.ubuntu.com/,live-server,amd64,19.04,stable,Wed 17 Apr 2019 04:16:28 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-live-server-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
