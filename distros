@@ -1,4 +1,4 @@
-# Last update/url verification: Thu 18 Apr 2019 04:04:36 PM UTC
+# Last update/url verification: Fri 19 Apr 2019 12:20:30 PM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -144,3 +144,17 @@ LinuxLite,https://www.linuxliteos.com/,,amd64,4.4,stable,Sun 31 Mar 2019 04:01:1
 Ubuntu,https://www.ubuntu.com/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 04:09:53 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-desktop-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
 
 Ubuntu,https://www.ubuntu.com/,live-server,amd64,19.04,stable,Wed 17 Apr 2019 04:16:28 PM UTC,Disco Dingo,http://releases.ubuntu.com/19.04/ubuntu-19.04-live-server-amd64.iso,sha256,http://releases.ubuntu.com/19.04/SHA256SUMS
+
+Kubuntu,https://kubuntu.org,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:13:47 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/kubuntu/releases/19.04/release/kubuntu-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/kubuntu/releases/19.04/release/SHA256SUMS
+
+Lubuntu,https://lubuntu.net/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:16:28 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/lubuntu/releases/19.04/release/lubuntu-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/lubuntu/releases/19.04/release/SHA256SUMS
+
+Ubuntu-Budgie,https://ubuntubudgie.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:58:58 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/ubuntu-budgie/releases/19.04/release/ubuntu-budgie-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/ubuntu-budgie/releases/19.04/release/SHA256SUMS
+
+Ubuntu-Kylin,http://www.ubuntukylin.com/index.php?lang=en,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:54:38 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/ubuntukylin/releases/19.04/release/ubuntukylin-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/ubuntukylin/releases/19.04/release/SHA256SUMS
+
+Ubuntu-MATE,https://ubuntu-mate.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 07:02:33 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/ubuntu-mate/releases/19.04/release/ubuntu-mate-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/ubuntu-mate/releases/19.04/release/SHA256SUMS
+
+Ubuntu-Studio,https://ubuntustudio.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 07:08:15 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/ubuntustudio/releases/19.04/release/ubuntustudio-19.04-dvd-amd64.iso,sha256,http://cdimage.ubuntu.com/ubuntustudio/releases/19.04/release/SHA256SUMS
+
+Xubuntu,https://xubuntu.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:18:16 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/xubuntu/releases/19.04/release/xubuntu-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/xubuntu/releases/19.04/release/SHA256SUMS
