@@ -1,4 +1,4 @@
-# Last update/url verification: Fri 19 Apr 2019 12:20:30 PM UTC
+# Last update/url verification: Sat 20 Apr 2019 11:38:26 PM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -158,3 +158,5 @@ Ubuntu-MATE,https://ubuntu-mate.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 
 Ubuntu-Studio,https://ubuntustudio.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 07:08:15 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/ubuntustudio/releases/19.04/release/ubuntustudio-19.04-dvd-amd64.iso,sha256,http://cdimage.ubuntu.com/ubuntustudio/releases/19.04/release/SHA256SUMS
 
 Xubuntu,https://xubuntu.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:18:16 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/xubuntu/releases/19.04/release/xubuntu-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/xubuntu/releases/19.04/release/SHA256SUMS
+
+QubesOS,https://www.qubes-os.org/,,amd64,4.0.1,stable,Mon 07 Jan 2019 04:26:50 PM UTC,,https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.0.1-x86_64.iso,sha256,https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.0.1-x86_64.iso.DIGESTS
