@@ -1,4 +1,4 @@
-# Last update/url verification: Sat 20 Apr 2019 11:38:26 PM UTC
+# Last update/url verification: Sat 20 Apr 2019 11:47:17 PM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -160,3 +160,7 @@ Ubuntu-Studio,https://ubuntustudio.org/,desktop,amd64,19.04,stable,Wed 17 Apr 20
 Xubuntu,https://xubuntu.org/,desktop,amd64,19.04,stable,Wed 17 Apr 2019 06:18:16 PM UTC,Disco Dingo,http://cdimage.ubuntu.com/xubuntu/releases/19.04/release/xubuntu-19.04-desktop-amd64.iso,sha256,http://cdimage.ubuntu.com/xubuntu/releases/19.04/release/SHA256SUMS
 
 QubesOS,https://www.qubes-os.org/,,amd64,4.0.1,stable,Mon 07 Jan 2019 04:26:50 PM UTC,,https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.0.1-x86_64.iso,sha256,https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.0.1-x86_64.iso.DIGESTS
+
+pop!_os,https://system76.com/pop,AMD/Intel,amd64,19.04,stable,Fri 19 Apr 2019 07:43:31 PM UTC,,https://pop-iso.sfo2.cdn.digitaloceanspaces.com/19.04/amd64/intel/4/pop-os_19.04_amd64_intel_4.iso,sha256,b3d271c72522cddc1c1fd327cd07716031171cc65c61cfd08fd8e0fca436e6e9
+
+pop!_os,https://system76.com/pop,NVIDIA,amd64,19.04,stable,Fri 19 Apr 2019 07:44:50 PM UTC,,https://pop-iso.sfo2.cdn.digitaloceanspaces.com/19.04/amd64/nvidia/4/pop-os_19.04_amd64_nvidia_4.iso,sha256,d77fa270a5b34d3e6cd08771c5911e35a491547016a8476074a23b9270e7b106
