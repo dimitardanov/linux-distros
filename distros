@@ -1,4 +1,4 @@
-# Last update/url verification: Thu 23 May 2019 05:26:03 AM UTC
+# Last update/url verification: Thu 23 May 2019 07:05:09 AM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -72,30 +72,6 @@ MXLinux,https://mxlinux.org/,,amd64,18.2,stable,Sat 06 Apr 2019 11:37:48 PM UTC,
 MXLinux,https://mxlinux.org/,,i386,18.2,stable,Sat 06 Apr 2019 11:37:15 PM UTC,,http://linuxfreedom.com/mxlinux/MX/Final/MX-18.2/MX-18.2_386.iso,sha256,http://mxrepo.com/Final/MX-18.2/MX-18.2_386.iso.sha256
 
 elementary,https://elementary.io/,,amd64,5.0,stable,Sat 13 Apr 2019 12:00:00 AM UTC,Juno,https://fra1.dl.elementary.io/download/MTU1NTE0MzIzOQ==/elementaryos-5.0-stable.20181016.iso,sha256,a8c7b8c54aeb0889bb3245356ffcd95b77e9835ffb5ac56376a3b627c3e1950f
-
-Debian,https://www.debian.org/,Cinnamon-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:20:18 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-cinnamon.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,GNOME-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:20:14 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-gnome.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,KDE-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:21:11 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-kde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,LXDE-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:18:20 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-lxde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,MATE-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:17:16 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-mate.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,Xfce-(live),amd64,9.8,stable,Sat 16 Feb 2019 12:17:02 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/debian-live-9.8.0-amd64-xfce.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/amd64/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,Cinnamon-(live),i386,9.8,stable,Sat 16 Feb 2019 12:41:42 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-cinnamon.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,GNOME-(live),i386,9.8,stable,Sat 16 Feb 2019 12:41:30 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-gnome.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,KDE-(live),i386,9.8,stable,Sat 16 Feb 2019 12:42:37 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-kde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,LXDE-(live),i386,9.8,stable,Sat 16 Feb 2019 12:39:32 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-lxde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,MATE-(live),i386,9.8,stable,Sat 16 Feb 2019 12:38:40 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-mate.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
-
-Debian,https://www.debian.org/,Xfce-(live),i386,9.8,stable,Sat 16 Feb 2019 12:38:35 PM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/debian-live-9.8.0-i386-xfce.iso,sha512,http://debian-cd.debian.net/debian-cd/9.8.0-live/i386/iso-hybrid/SHA512SUMS
 
 Fedora,https://getfedora.org,Workstation-(live),amd64,29,stable,Thu 25 Oct 2018 12:11:28 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-x86_64-CHECKSUM
 
@@ -174,3 +150,15 @@ CentOS,https://www.centos.org,LiveKDE,amd64,7.6-1810,stable,Sat 24 Nov 2018 05:5
 CentOS,https://www.centos.org,Minimal,amd64,7.6-1810,stable,Sun 25 Nov 2018 09:25:20 PM UTC,,http://mirror.wwfx.net/7.6.1810/isos/x86_64/CentOS-7-x86_64-Minimal-1810.iso,sha256,http://mirror.wwfx.net/7.6.1810/isos/x86_64/sha256sum.txt
 
 CentOS,https://www.centos.org,NetInstall,amd64,7.6-1810,stable,Sun 25 Nov 2018 04:21:10 PM UTC,,http://mirror.wwfx.net/7.6.1810/isos/x86_64/CentOS-7-x86_64-NetInstall-1810.iso,sha256,http://mirror.wwfx.net/7.6.1810/isos/x86_64/sha256sum.txt
+
+Debian,https://www.debian.org/,Cinnamon-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:50:36 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-cinnamon.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,GNOME-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:50:08 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-gnome.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,KDE-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:51:23 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-kde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,LXDE-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:48:38 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-lxde.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,MATE-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:47:47 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-mate.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Debian,https://www.debian.org/,Xfce-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:47:46 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-xfce.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
