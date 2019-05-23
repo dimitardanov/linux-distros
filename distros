@@ -1,4 +1,4 @@
-# Last update/url verification: Thu 23 May 2019 07:05:09 AM UTC
+# Last update/url verification: Thu 23 May 2019 07:20:40 AM UTC
 # Comment lines with "#" at the beginning
 # First 4 lines reserved.
 # distro-name,website,edition,architecture,version,release,last-modified,code-name,iso-url,digest,checksum
@@ -73,22 +73,6 @@ MXLinux,https://mxlinux.org/,,i386,18.2,stable,Sat 06 Apr 2019 11:37:15 PM UTC,,
 
 elementary,https://elementary.io/,,amd64,5.0,stable,Sat 13 Apr 2019 12:00:00 AM UTC,Juno,https://fra1.dl.elementary.io/download/MTU1NTE0MzIzOQ==/elementaryos-5.0-stable.20181016.iso,sha256,a8c7b8c54aeb0889bb3245356ffcd95b77e9835ffb5ac56376a3b627c3e1950f
 
-Fedora,https://getfedora.org,Workstation-(live),amd64,29,stable,Thu 25 Oct 2018 12:11:28 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-x86_64-CHECKSUM
-
-Fedora,https://getfedora.org,Workstation-(live),i386,29,stable,Thu 25 Oct 2018 12:15:43 AM UTC,,https://download.fedoraproject.org/pub/fedora-secondary/releases/29/Workstation/i386/iso/Fedora-Workstation-Live-i386-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-i386-CHECKSUM
-
-Fedora,https://getfedora.org,Workstation-(netinstall),amd64,29,stable,Wed 24 Oct 2018 08:55:41 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Workstation/x86_64/iso/Fedora-Workstation-netinst-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-x86_64-CHECKSUM
-
-Fedora,https://getfedora.org,Workstation-(netinstall),i386,29,stable,Wed 24 Oct 2018 08:37:51 PM UTC,,https://download.fedoraproject.org/pub/fedora-secondary/releases/29/Workstation/i386/iso/Fedora-Workstation-netinst-i386-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Workstation-29-1.2-i386-CHECKSUM
-
-Fedora,https://getfedora.org,Server,amd64,29,stable,Wed 24 Oct 2018 11:53:31 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Server/x86_64/iso/Fedora-Server-dvd-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Server-29-1.2-x86_64-CHECKSUM
-
-Fedora,https://getfedora.org,Server-(netinstall),amd64,29,stable,Wed 24 Oct 2018 08:55:35 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/29/Server/x86_64/iso/Fedora-Server-netinst-x86_64-29-1.2.iso,sha256,https://getfedora.org/en/static/checksums/Fedora-Server-29-1.2-x86_64-CHECKSUM
-
-Fedora,https://getfedora.org,Atomic,amd64,29,stable,Mon 01 Apr 2019 02:22:15 AM UTC,,https://download.fedoraproject.org/pub/alt/atomic/stable/Fedora-29-updates-20190401.0/AtomicHost/x86_64/iso/Fedora-AtomicHost-ostree-x86_64-29-20190401.0.iso,sha256,https://ftp-stud.hs-esslingen.de/pub/Mirrors/alt.fedoraproject.org/atomic/stable/Fedora-29-updates-20190401.0/AtomicHost/x86_64/iso/Fedora-AtomicHost-29-20190401.0-x86_64-CHECKSUM
-
-Fedora,https://getfedora.org,Workstation,amd64,30,beta,Tue 26 Mar 2019 09:00:40 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/test/30_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-30_Beta-1.8.iso,sha256,https://getfedora.org/static/checksums/Fedora-Workstation-30_Beta-1.8-x86_64-CHECKSUM
-
 Solus,https://getsol.us/,Budgie,amd64,4.0,stable,Sun 17 Mar 2019 08:33:41 PM UTC,Fortitude,http://solus.veatnet.de/iso/images/4.0/Solus-4.0-Budgie.iso,sha256,https://mirrors.rit.edu/solus/images/4.0/Solus-4.0-Budgie.iso.sha256sum
 
 Solus,https://getsol.us/,GNOME,amd64,4.0,stable,Sun 17 Mar 2019 07:10:11 PM UTC,Fortitude,http://solus.veatnet.de/iso/images/4.0/Solus-4.0-GNOME.iso,sha256,https://mirrors.rit.edu/solus/images/4.0/Solus-4.0-GNOME.iso.sha256sum
@@ -162,3 +146,13 @@ Debian,https://www.debian.org/,LXDE-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:4
 Debian,https://www.debian.org/,MATE-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:47:47 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-mate.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
 
 Debian,https://www.debian.org/,Xfce-(live),amd64,9.9,stable,Sat 27 Apr 2019 10:47:46 AM UTC,stretch,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/debian-live-9.9.0-amd64-xfce.iso,sha512,http://debian-cd.debian.net/debian-cd/9.9.0-live/amd64/iso-hybrid/SHA512SUMS
+
+Fedora,https://getfedora.org/,Workstation,amd64,30,stable,Fri 26 Apr 2019 02:40:21 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/30/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-30-1.2.iso,sha256,https://getfedora.org/static/checksums/Fedora-Workstation-30-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org/,Workstation-(netinst),amd64,30,stable,Thu 25 Apr 2019 11:04:13 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/30/Workstation/x86_64/iso/Fedora-Workstation-netinst-x86_64-30-1.2.iso,sha256,https://getfedora.org/static/checksums/Fedora-Workstation-30-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org/,Server-(netinst),amd64,30,stable,Thu 25 Apr 2019 10:56:50 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/30/Server/x86_64/iso/Fedora-Server-netinst-x86_64-30-1.2.iso,sha256,https://getfedora.org/static/checksums/Fedora-Server-30-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org/,Server,amd64,30,stable,Fri 26 Apr 2019 02:02:23 AM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/30/Server/x86_64/iso/Fedora-Server-dvd-x86_64-30-1.2.iso,sha256,https://getfedora.org/static/checksums/Fedora-Server-30-1.2-x86_64-CHECKSUM
+
+Fedora,https://getfedora.org/,Silverblue,amd64,30,stable,Thu 25 Apr 2019 11:37:47 PM UTC,,https://download.fedoraproject.org/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-30-1.2.iso,sha256,http://mirrors.netix.net/fedora/linux/releases/30/Silverblue/x86_64/iso/Fedora-Silverblue-30-1.2-x86_64-CHECKSUM
